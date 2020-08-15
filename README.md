@@ -1,7 +1,5 @@
 # AngularMaterial
-
-Готовая основа для создания SPA + Angular Material #
-<br>This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 ![til](src/assets/gif/gif.gif)
 ## Development server
 
